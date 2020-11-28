@@ -40,9 +40,9 @@ output should have an absolute or relative error of at most 10􀀀6.
 25.000000000 </br>
                     
 # Sample Input 2 
-2  5
-10000  10000  20000  20000
-40000  40000  50000  60000
+2  5 </br>
+10000  10000  20000  20000 </br>
+40000  40000  50000  60000 </br>
 
 # Sample Output 2
 14.611103142 </br>
