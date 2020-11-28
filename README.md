@@ -32,21 +32,21 @@ Display the s slice thicknesses in millimeters, starting from the end of the che
 output should have an absolute or relative error of at most 10􀀀6.
 
 # Sample Input 1  
-0 4            
+0  4            
 # Sample Output 1
 25.000000000 </br>
-25.000000000
-25.000000000
-25.000000000
+25.000000000 </br>
+25.000000000 </br>
+25.000000000 </br>
                     
 # Sample Input 2 
-2 5
-10000 10000 20000 20000
-40000 40000 50000 60000
+2  5
+10000  10000  20000  20000
+40000  40000  50000  60000
 
 # Sample Output 2
-14.611103142
-16.269801734
-24.092457788
-27.002992272
-18.023645064
+14.611103142 </br>
+16.269801734 </br>
+24.092457788 </br>
+27.002992272 </br>
+18.023645064 </br>
