@@ -34,7 +34,7 @@ output should have an absolute or relative error of at most 10􀀀6.
 # Sample Input 1  
 0 4            
 # Sample Output 1
-25.000000000
+25.000000000 </br>
 25.000000000
 25.000000000
 25.000000000
